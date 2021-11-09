@@ -1,4 +1,4 @@
-# sound_board
+# Animated Navigation
 
 ## This project uses HTML, JavaScript and CSS to create an animated navigated
 
